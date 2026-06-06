@@ -1,0 +1,32 @@
+level,cluster_id,label,n_mikro_topics,n_docs
+mezo,1,course quality and programming practice feedback,21,22005
+mezo,2,positive experiences in cloud computing courses,4,3569
+mezo,3,course content and platform feedback,4,1697
+mezo,4,course quality and instructor praise,9,6537
+mezo,5,web development and data course praise,8,4135
+mezo,6,instructor and course quality praise,11,23306
+mezo,7,data science and database course praise,8,10013
+mezo,8,Python programming course praise and feedback,5,13798
+mezo,9,statistics course content praise,4,3577
+mezo,10,instructor and course praise,8,7962
+mezo,11,business and finance course praise,8,5397
+mezo,12,course content and effectiveness praise,21,10787
+mezo,13,overall course experience feedback,5,3201
+mezo,14,course content and quality feedback,6,5119
+mezo,15,instructor and course quality praise,20,8408
+mezo,16,energy and sustainability course praise,4,1686
+mezo,17,course content and teaching praise,13,6923
+mezo,18,psychology course and instructor praise,6,4960
+mezo,19,course content and instructor praise,6,2298
+mezo,20,science and health course praise,8,4356
+mezo,21,course experience and instructor appreciation,10,6507
+mezo,22,course quality and enjoyment praise,19,22865
+mezo,23,instructor and course feedback,22,38781
+mezo,24,language course improvement and appreciation,5,7611
+mezo,25,creative skill development appreciation,15,10496
+makro,1,course quality and positive experiences,46,37943
+makro,2,course quality and content feedback,36,58656
+makro,3,course quality and effectiveness,29,16184
+makro,4,course content and experience feedback,11,8320
+makro,5,course and instructor appreciation,57,28631
+makro,6,course experience and instructor appreciation,71,86260

@@ -1,0 +1,24 @@
+{
+  "design_note": "Fifty Pass-1 micro-topics were sampled (eight per macro, plus two extras) and presented to a second coder (Claude Opus 4) with the five most representative documents per topic but without the LLM-generated label. The second coder marked each label as 'accept' (correctly captures the dominant theme), 'reject' (clearly wrong) or 'abstain' (heterogeneous). Because Coder A's position is constant \u2014 every label is accepted by default in the unattended pipeline \u2014 a standard two-coder kappa is undefined; we report the share-accepted metric.",
+  "n_sampled": 50,
+  "macros_covered": 6,
+  "accept_n": 41,
+  "accept_pct": 82.0,
+  "reject_n": 6,
+  "reject_pct": 12.0,
+  "abstain_n": 3,
+  "abstain_pct": 6.0,
+  "rejected_t_ids": [
+    "T152",
+    "T143",
+    "T102",
+    "T103",
+    "T154",
+    "T1"
+  ],
+  "abstained_t_ids": [
+    "T107",
+    "T84",
+    "T242"
+  ]
+}

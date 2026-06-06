@@ -1,0 +1,9 @@
+{
+  "model": "distilbert-base-uncased-finetuned-sst-2-english",
+  "device": "mps",
+  "n_docs": 365697,
+  "batch_size": 64,
+  "max_length": 256,
+  "duration_seconds": 2640.7,
+  "seed": 42
+}

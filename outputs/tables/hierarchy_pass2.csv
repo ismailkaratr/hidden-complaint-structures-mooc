@@ -1,0 +1,69 @@
+T_id,Macro_rank,Macro_id,Macro_display,Macro_label,Meso_rank,Meso_id,Meso_display,Meso_label,Topic_ID,Label,N,Pct
+CT1,0,1,Macro 1,Course-specific content and assignment problems,1,1,Meso 1,Assignment design and lecture-assessment alignment,2,Lack of clarity and support for assignments,683,4.038
+CT2,0,1,Macro 1,Course-specific content and assignment problems,1,1,Meso 1,Assignment design and lecture-assessment alignment,3,Discrepancy Between Lectures and Assignments,670,3.961
+CT3,0,1,Macro 1,Course-specific content and assignment problems,1,1,Meso 1,Assignment design and lecture-assessment alignment,6,Course organization and unclear assignments,503,2.974
+CT4,0,1,Macro 1,Course-specific content and assignment problems,1,1,Meso 1,Assignment design and lecture-assessment alignment,7,Lack of depth and engagement in content,440,2.601
+CT5,0,1,Macro 1,Course-specific content and assignment problems,1,1,Meso 1,Assignment design and lecture-assessment alignment,11,Inadequate alignment of assignments and lectures,310,1.833
+CT6,0,1,Macro 1,Course-specific content and assignment problems,1,1,Meso 1,Assignment design and lecture-assessment alignment,23,Insufficient mathematical depth and support,211,1.247
+CT7,0,1,Macro 1,Course-specific content and assignment problems,1,1,Meso 1,Assignment design and lecture-assessment alignment,33,Lack of clarity in video assignments and instructions,145,0.857
+CT8,0,1,Macro 1,Course-specific content and assignment problems,1,1,Meso 1,Assignment design and lecture-assessment alignment,50,Overwhelming course content and unclear instructions,77,0.455
+CT9,0,1,Macro 1,Course-specific content and assignment problems,1,1,Meso 1,Assignment design and lecture-assessment alignment,51,Mismatch between lectures and assignments,75,0.443
+CT10,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",4,Video clarity and course materials,553,3.269
+CT11,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",5,Lab specifications and clarity issues,517,3.056
+CT12,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",12,Course content lacks depth and practical value,277,1.638
+CT13,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",30,Course content and accessibility issues,156,0.922
+CT14,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",31,Lack of clarity in math instruction,150,0.887
+CT15,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",36,Poor course structure and inadequate support,138,0.816
+CT16,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",37,Lack of practical machine learning training,119,0.703
+CT17,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",38,Lab functionality and performance issues,103,0.609
+CT18,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",40,Programming assignments and course clarity issues,99,0.585
+CT19,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",46,Limited use of open-source tools in course,83,0.491
+CT20,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",52,Inadequate Java learning resources and tools,73,0.432
+CT21,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",54,Inadequate instruction for beginners in commands,70,0.414
+CT22,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",55,Autograder issues hinder coding learning experience,66,0.39
+CT23,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",59,Lack of practical application in networking training,61,0.361
+CT24,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",65,Lack of technical depth and practical examples,55,0.325
+CT25,0,1,Macro 1,Course-specific content and assignment problems,2,3,Meso 2,"Lab, tooling and platform-specific frictions",67,Insufficient depth and explanation in course content,52,0.307
+CT26,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),13,Outdated course materials and service issues,262,1.549
+CT27,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),16,Outdated content and lack of relevant emphasis,249,1.472
+CT28,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),17,Insufficient explanations and course complexity issues,245,1.448
+CT29,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),18,Lack of depth and clarity in content,241,1.425
+CT30,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),19,Course content misalignment with expectations and difficulty,240,1.419
+CT31,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),20,Lack of depth in nutrition content,233,1.377
+CT32,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),21,Outdated tutorial videos and interface issues,224,1.324
+CT33,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),29,Outdated content and poor JavaScript instruction,162,0.958
+CT34,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),32,Course difficulty and content coverage issues,147,0.869
+CT35,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),34,Lack of depth and specificity in content,144,0.851
+CT36,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),44,Course content is outdated and lacks updates.,85,0.502
+CT37,0,1,Macro 1,Course-specific content and assignment problems,3,2,Meso 3,Outdated or thin course content (course-specific),47,Content Bias and Lack of Diverse Perspectives,83,0.491
+CT38,0,1,Macro 1,Course-specific content and assignment problems,4,4,Meso 4,"Audio, slide and delivery-quality issues",25,Poor audio quality and delivery issues,183,1.082
+CT39,0,1,Macro 1,Course-specific content and assignment problems,4,4,Meso 4,"Audio, slide and delivery-quality issues",26,Presentation quality and slide accessibility issues,181,1.07
+CT40,0,1,Macro 1,Course-specific content and assignment problems,4,4,Meso 4,"Audio, slide and delivery-quality issues",27,Excessive video length and poor engagement,163,0.964
+CT41,0,1,Macro 1,Course-specific content and assignment problems,4,4,Meso 4,"Audio, slide and delivery-quality issues",28,Inadequate lecture quality and structure,163,0.964
+CT42,0,1,Macro 1,Course-specific content and assignment problems,4,4,Meso 4,"Audio, slide and delivery-quality issues",49,Outdated course content needs urgent update,77,0.455
+CT43,0,1,Macro 1,Course-specific content and assignment problems,4,4,Meso 4,"Audio, slide and delivery-quality issues",61,Lack of logical structure and engaging materials,56,0.331
+CT44,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",0,Lack of depth and engagement in course material,3299,19.502
+CT45,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",10,Ineffective and monotonous teaching style,327,1.933
+CT46,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",14,Insufficient video content and reliance on book,255,1.507
+CT47,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",15,Language proficiency and accent difficulties,251,1.484
+CT48,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",22,Poor exercise design and lack of support,221,1.306
+CT49,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",24,Course cohesion and clarity issues,196,1.159
+CT50,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",35,Lack of clarity and difficulty in material,144,0.851
+CT51,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",39,Course quality and content issues,101,0.597
+CT52,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",42,Misleading course content and format issues,95,0.562
+CT53,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",43,Course difficulty and unclear instructions,90,0.532
+CT54,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",45,Insufficient structure and engagement in capstone,84,0.497
+CT55,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",48,Lack of practical application and clarity,78,0.461
+CT56,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",53,Course workload and time expectations,73,0.432
+CT57,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",56,Course structure and assignment challenges,65,0.384
+CT58,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",57,Course content and organization issues,64,0.378
+CT59,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",58,Lack of practical content and disorganization,63,0.372
+CT60,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",60,Course content quality and assignment issues,58,0.343
+CT61,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",62,Lack of support in discussion forums,56,0.331
+CT62,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",64,Course content focus and structure issues,55,0.325
+CT63,1,2,Macro 2,Generic pedagogical-quality complaints,1,5,Meso 5,"Lack of depth, engagement and clarity",66,Inadequate course content and structure,53,0.313
+CT64,1,2,Macro 2,Generic pedagogical-quality complaints,2,6,Meso 6,Outdated content and assessment errors,1,Quiz errors and outdated content complaints,1506,8.903
+CT65,1,2,Macro 2,Generic pedagogical-quality complaints,2,6,Meso 6,Outdated content and assessment errors,8,Inadequate peer review and grading process,429,2.536
+CT66,2,3,Macro 3,Administrative and enrolment frictions,1,7,Meso 7,"Certificate, payment and enrolment problems",9,Certificate issues and poor support experience,378,2.235
+CT67,2,3,Macro 3,Administrative and enrolment frictions,1,7,Meso 7,"Certificate, payment and enrolment problems",41,Unenrollment and course cancellation requests,96,0.568
+CT68,2,3,Macro 3,Administrative and enrolment frictions,1,7,Meso 7,"Certificate, payment and enrolment problems",63,Payment issues and financial aid problems,55,0.325

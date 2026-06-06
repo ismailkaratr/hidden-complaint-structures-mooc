@@ -1,0 +1,33 @@
+Level,Display,Label,N,Pct,Micros
+Macro,Macro 1,course experience and instructor appreciation,86260,23.59,
+Meso,Meso 1,instructor and course feedback,38781,10.6,"T1 (1.55%), T2 (1.40%), T3 (1.17%), T4 (1.16%), T5 (1.02%), T6 (1.01%), T7 (0.68%), T8 (0.49%), T9 (0.35%), T10 (0.34%), T11 (0.25%), T12 (0.23%), T13 (0.15%), T14 (0.15%), T15 (0.13%), T16 (0.09%), T17 (0.08%), T18 (0.08%), T19 (0.07%), T20 (0.07%), T21 (0.06%), T22 (0.06%)"
+Meso,Meso 2,course quality and enjoyment praise,22865,6.25,"T23 (1.08%), T24 (0.88%), T25 (0.56%), T26 (0.54%), T27 (0.50%), T28 (0.41%), T29 (0.37%), T30 (0.33%), T31 (0.32%), T32 (0.28%), T33 (0.26%), T34 (0.16%), T35 (0.12%), T36 (0.08%), T37 (0.08%), T38 (0.07%), T39 (0.07%), T40 (0.06%), T41 (0.06%)"
+Meso,Meso 3,creative skill development appreciation,10496,2.87,"T42 (0.44%), T43 (0.33%), T44 (0.31%), T45 (0.25%), T46 (0.23%), T47 (0.22%), T48 (0.19%), T49 (0.18%), T50 (0.15%), T51 (0.14%), T52 (0.10%), T53 (0.09%), T54 (0.08%), T55 (0.08%), T56 (0.06%)"
+Meso,Meso 4,language course improvement and appreciation,7611,2.08,"T57 (0.71%), T58 (0.66%), T59 (0.33%), T60 (0.31%), T61 (0.08%)"
+Meso,Meso 5,course experience and instructor appreciation,6507,1.78,"T62 (0.38%), T63 (0.36%), T64 (0.27%), T65 (0.18%), T66 (0.15%), T67 (0.11%), T68 (0.11%), T69 (0.08%), T70 (0.07%), T71 (0.07%)"
+Macro,Macro 2,course quality and content feedback,58656,16.04,
+Meso,Meso 6,instructor and course quality praise,23306,6.37,"T72 (1.97%), T73 (1.16%), T74 (0.81%), T75 (0.77%), T76 (0.45%), T77 (0.41%), T78 (0.26%), T79 (0.23%), T80 (0.14%), T81 (0.10%), T82 (0.07%)"
+Meso,Meso 7,Python programming course praise and feedback,13798,3.77,"T83 (3.13%), T84 (0.21%), T85 (0.19%), T86 (0.18%), T87 (0.07%)"
+Meso,Meso 8,data science and database course praise,10013,2.74,"T88 (1.92%), T89 (0.26%), T90 (0.16%), T91 (0.10%), T92 (0.09%), T93 (0.08%), T94 (0.08%), T95 (0.06%)"
+Meso,Meso 9,instructor and course praise,7962,2.18,"T96 (1.20%), T97 (0.29%), T98 (0.21%), T99 (0.16%), T100 (0.10%), T101 (0.07%), T102 (0.07%), T103 (0.07%)"
+Meso,Meso 10,statistics course content praise,3577,0.98,"T104 (0.51%), T105 (0.33%), T106 (0.08%), T107 (0.06%)"
+Macro,Macro 3,course quality and positive experiences,37943,10.38,
+Meso,Meso 11,course quality and programming practice feedback,22005,6.02,"T108 (1.21%), T109 (0.77%), T110 (0.75%), T111 (0.57%), T112 (0.36%), T113 (0.31%), T114 (0.26%), T115 (0.25%), T116 (0.19%), T117 (0.19%), T118 (0.16%), T119 (0.16%), T120 (0.13%), T121 (0.13%), T122 (0.12%), T123 (0.11%), T124 (0.09%), T125 (0.07%), T126 (0.07%), T127 (0.07%), T128 (0.06%)"
+Meso,Meso 12,course quality and instructor praise,6537,1.79,"T129 (0.41%), T130 (0.35%), T131 (0.27%), T132 (0.20%), T133 (0.17%), T134 (0.13%), T135 (0.10%), T136 (0.10%), T137 (0.07%)"
+Meso,Meso 13,web development and data course praise,4135,1.13,"T138 (0.22%), T139 (0.20%), T140 (0.19%), T141 (0.16%), T142 (0.12%), T143 (0.09%), T144 (0.08%), T145 (0.07%)"
+Meso,Meso 14,positive experiences in cloud computing courses,3569,0.98,"T146 (0.41%), T147 (0.25%), T148 (0.23%), T149 (0.08%)"
+Meso,Meso 15,course content and platform feedback,1697,0.46,"T150 (0.14%), T151 (0.13%), T152 (0.13%), T153 (0.07%)"
+Macro,Macro 4,course and instructor appreciation,28631,7.83,
+Meso,Meso 16,instructor and course quality praise,8408,2.3,"T154 (0.37%), T155 (0.24%), T156 (0.19%), T157 (0.17%), T158 (0.12%), T159 (0.11%), T160 (0.10%), T161 (0.10%), T162 (0.09%), T163 (0.09%), T164 (0.09%), T165 (0.09%), T166 (0.07%), T167 (0.07%), T168 (0.07%), T169 (0.07%), T170 (0.07%), T171 (0.06%), T172 (0.06%), T173 (0.05%)"
+Meso,Meso 17,course content and teaching praise,6923,1.89,"T174 (0.28%), T175 (0.27%), T176 (0.25%), T177 (0.18%), T178 (0.14%), T179 (0.13%), T180 (0.13%), T181 (0.12%), T182 (0.10%), T183 (0.08%), T184 (0.08%), T185 (0.06%), T186 (0.06%)"
+Meso,Meso 18,psychology course and instructor praise,4960,1.36,"T187 (0.54%), T188 (0.38%), T189 (0.18%), T190 (0.12%), T191 (0.08%), T192 (0.06%)"
+Meso,Meso 19,science and health course praise,4356,1.19,"T193 (0.32%), T194 (0.32%), T195 (0.12%), T196 (0.10%), T197 (0.09%), T198 (0.09%), T199 (0.08%), T200 (0.07%)"
+Meso,Meso 20,course content and instructor praise,2298,0.63,"T201 (0.17%), T202 (0.17%), T203 (0.09%), T204 (0.07%), T205 (0.06%), T206 (0.06%)"
+Meso,Meso 21,energy and sustainability course praise,1686,0.46,"T207 (0.15%), T208 (0.12%), T209 (0.10%), T210 (0.09%)"
+Macro,Macro 5,course quality and effectiveness,16184,4.43,
+Meso,Meso 22,course content and effectiveness praise,10787,2.95,"T211 (0.36%), T212 (0.36%), T213 (0.22%), T214 (0.21%), T215 (0.19%), T216 (0.17%), T217 (0.15%), T218 (0.14%), T219 (0.14%), T220 (0.12%), T221 (0.10%), T222 (0.10%), T223 (0.10%), T224 (0.09%), T225 (0.08%), T226 (0.08%), T227 (0.08%), T228 (0.08%), T229 (0.08%), T230 (0.06%), T231 (0.06%)"
+Meso,Meso 23,business and finance course praise,5397,1.48,"T232 (0.59%), T233 (0.21%), T234 (0.17%), T235 (0.14%), T236 (0.13%), T237 (0.08%), T238 (0.08%), T239 (0.08%)"
+Macro,Macro 6,course content and experience feedback,8320,2.28,
+Meso,Meso 24,course content and quality feedback,5119,1.4,"T240 (0.41%), T241 (0.29%), T242 (0.29%), T243 (0.25%), T244 (0.12%), T245 (0.05%)"
+Meso,Meso 25,overall course experience feedback,3201,0.88,"T246 (0.26%), T247 (0.22%), T248 (0.17%), T249 (0.16%), T250 (0.07%)"
+Macro,—,Unassigned (HDBSCAN outlier; excluded from clustered hierarchy),129703,35.47,

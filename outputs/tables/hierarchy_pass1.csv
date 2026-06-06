@@ -1,0 +1,251 @@
+T_id,Macro_rank,Macro_id,Macro_display,Macro_label,Meso_rank,Meso_id,Meso_display,Meso_label,Topic_ID,Label,N,Pct
+T1,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,3,feedback on video length and structure,5681,2.407
+T2,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,4,praise for great teacher and course,5130,2.174
+T3,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,7,praise for great instructors,4293,1.819
+T4,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,9,praise for great professor and course,4247,1.8
+T5,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,11,feedback on quiz quality and access,3748,1.588
+T6,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,12,feedback on assignment quality and challenge,3682,1.56
+T7,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,19,mixed feedback on lecture clarity,2496,1.058
+T8,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,28,praise for instructor Andrew Ng,1810,0.767
+T9,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,45,complaints about peer review effectiveness,1280,0.542
+T10,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,46,positive feedback on course experience,1257,0.533
+T11,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,75,praise for instructor Andrew,908,0.385
+T12,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,80,praise for lecturers and teaching quality,829,0.351
+T13,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,118,concerns about slide quality and interactivity,552,0.234
+T14,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,119,course rating opinions,546,0.231
+T15,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,130,praise for Dr. Charles Severance,480,0.203
+T16,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,177,praise for professor Laurie Santos,319,0.135
+T17,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,201,praise for Professor Paul Bloom,279,0.118
+T18,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,202,praise for course tutor,279,0.118
+T19,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,209,praise for course presenters,272,0.115
+T20,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,210,praise for Professor Santos,271,0.115
+T21,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,240,praise for Professor Robert Shiller,212,0.09
+T22,0,6,Macro 1,course experience and instructor appreciation,1,23,Meso 1,instructor and course feedback,241,praise for Professor Charles,210,0.089
+T23,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,10,praise for Coursera courses,3952,1.675
+T24,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,13,enthusiasm for healthy cooking and recipes,3226,1.367
+T25,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,23,praise for online course quality,2059,0.872
+T26,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,24,issues with certificate issuance and details,1990,0.843
+T27,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,27,feedback on exercise quality and quantity,1838,0.779
+T28,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,33,praise for the best MOOC experience,1491,0.632
+T29,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,39,varying opinions on course effectiveness,1349,0.572
+T30,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,49,positive feedback on course enjoyment,1213,0.514
+T31,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,52,positive course enjoyment and appreciation,1173,0.497
+T32,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,61,praise for effective learning techniques,1021,0.433
+T33,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,66,praise for rewarding yet challenging course,963,0.408
+T34,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,114,praise for Dr. Barbara Oakley and Dr. Sejnowski,581,0.246
+T35,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,142,praise for training quality and trainers,447,0.189
+T36,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,187,praise for Dr. Kazdin's parenting course,297,0.126
+T37,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,191,praise for course quality,291,0.123
+T38,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,211,praise for course quality,271,0.115
+T39,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,213,positive feedback on exercise science course,268,0.114
+T40,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,234,course duration and time commitment feedback,230,0.097
+T41,0,6,Macro 1,course experience and instructor appreciation,2,22,Meso 2,course quality and enjoyment praise,244,praise for instructor Yaakov Chaikin,205,0.087
+T42,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,30,appreciation for writing skill development,1614,0.684
+T43,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,48,art,1214,0.514
+T44,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,55,positive feedback on classical music course,1128,0.478
+T45,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,70,praise for photography course content,927,0.393
+T46,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,77,positive feedback on design thinking course,853,0.361
+T47,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,81,feedback on graphic design fundamentals,819,0.347
+T48,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,93,praise for professional email writing course,705,0.299
+T49,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,100,praise for brain understanding techniques,655,0.278
+T50,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,122,praise for Dr. Peggy Mason's teaching,534,0.226
+T51,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,127,feedback on UX design courses,504,0.214
+T52,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,153,praise for communication skills development,383,0.162
+T53,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,168,praise for Dr. Kristin Sainani's course,344,0.146
+T54,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,183,strategies for overcoming procrastination,306,0.13
+T55,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,204,praise for typography course content,275,0.117
+T56,0,6,Macro 1,course experience and instructor appreciation,3,25,Meso 3,creative skill development appreciation,232,appreciation for creativity tools and techniques,235,0.1
+T57,0,6,Macro 1,course experience and instructor appreciation,4,24,Meso 4,language course improvement and appreciation,18,praise for English pronunciation improvement courses,2581,1.094
+T58,0,6,Macro 1,course experience and instructor appreciation,4,24,Meso 4,language course improvement and appreciation,20,positive experiences learning Korean language,2401,1.017
+T59,0,6,Macro 1,course experience and instructor appreciation,4,24,Meso 4,language course improvement and appreciation,50,positive feedback on Chinese language learning,1197,0.507
+T60,0,6,Macro 1,course experience and instructor appreciation,4,24,Meso 4,language course improvement and appreciation,54,praise for grammar and punctuation course,1148,0.486
+T61,0,6,Macro 1,course experience and instructor appreciation,4,24,Meso 4,language course improvement and appreciation,195,requests for Russian subtitles availability,284,0.12
+T62,0,6,Macro 1,course experience and instructor appreciation,5,21,Meso 5,course experience and instructor appreciation,37,appreciation for course and instructors,1385,0.587
+T63,0,6,Macro 1,course experience and instructor appreciation,5,21,Meso 5,course experience and instructor appreciation,40,praise for course learning experience,1319,0.559
+T64,0,6,Macro 1,course experience and instructor appreciation,5,21,Meso 5,course experience and instructor appreciation,63,praise for course effectiveness and learning,1000,0.424
+T65,0,6,Macro 1,course experience and instructor appreciation,5,21,Meso 5,course experience and instructor appreciation,101,gratitude for course experience,644,0.273
+T66,0,6,Macro 1,course experience and instructor appreciation,5,21,Meso 5,course experience and instructor appreciation,121,praise for helpful course,535,0.227
+T67,0,6,Macro 1,course experience and instructor appreciation,5,21,Meso 5,course experience and instructor appreciation,149,positive recommendations for the course,407,0.172
+T68,0,6,Macro 1,course experience and instructor appreciation,5,21,Meso 5,course experience and instructor appreciation,151,positive feedback on course enjoyment,401,0.17
+T69,0,6,Macro 1,course experience and instructor appreciation,5,21,Meso 5,course experience and instructor appreciation,198,praise for course experience,282,0.119
+T70,0,6,Macro 1,course experience and instructor appreciation,5,21,Meso 5,course experience and instructor appreciation,214,positive feedback on course learning experience,268,0.114
+T71,0,6,Macro 1,course experience and instructor appreciation,5,21,Meso 5,course experience and instructor appreciation,215,positive feedback on course experience,266,0.113
+T72,1,2,Macro 2,course quality and content feedback,1,6,Meso 6,instructor and course quality praise,1,praise for Andrew Ng's teaching style,7203,3.052
+T73,1,2,Macro 2,course quality and content feedback,1,6,Meso 6,instructor and course quality praise,8,positive feedback for AI course beginners,4259,1.805
+T74,1,2,Macro 2,course quality and content feedback,1,6,Meso 6,instructor and course quality praise,14,praise for deep learning course quality,2959,1.254
+T75,1,2,Macro 2,course quality and content feedback,1,6,Meso 6,instructor and course quality praise,15,praise for Andrew Ng's ML course,2824,1.197
+T76,1,2,Macro 2,course quality and content feedback,1,6,Meso 6,instructor and course quality praise,29,enthusiasm for neural networks understanding,1636,0.693
+T77,1,2,Macro 2,course quality and content feedback,1,6,Meso 6,instructor and course quality praise,34,request for more comprehensive tensorflow content,1491,0.632
+T78,1,2,Macro 2,course quality and content feedback,1,6,Meso 6,instructor and course quality praise,65,praise for algorithms course effectiveness,964,0.408
+T79,1,2,Macro 2,course quality and content feedback,1,6,Meso 6,instructor and course quality praise,79,praise for NLP and sequence models,835,0.354
+T80,1,2,Macro 2,course quality and content feedback,1,6,Meso 6,instructor and course quality praise,128,praise for hyperparameter tuning content,502,0.213
+T81,1,2,Macro 2,course quality and content feedback,1,6,Meso 6,instructor and course quality praise,160,nn,360,0.153
+T82,1,2,Macro 2,course quality and content feedback,1,6,Meso 6,instructor and course quality praise,207,praise for instructor Andrew Ng,273,0.116
+T83,1,2,Macro 2,course quality and content feedback,2,8,Meso 7,Python programming course praise and feedback,0,praise for Python beginner course,11452,4.853
+T84,1,2,Macro 2,course quality and content feedback,2,8,Meso 7,Python programming course praise and feedback,88,mixed feedback on course content focus,759,0.322
+T85,1,2,Macro 2,course quality and content feedback,2,8,Meso 7,Python programming course praise and feedback,92,praise for pandas course effectiveness,705,0.299
+T86,1,2,Macro 2,course quality and content feedback,2,8,Meso 7,Python programming course praise and feedback,102,reviews on data structures in Python,640,0.271
+T87,1,2,Macro 2,course quality and content feedback,2,8,Meso 7,Python programming course praise and feedback,229,praise for machine learning content,242,0.103
+T88,1,2,Macro 2,course quality and content feedback,3,7,Meso 8,data science and database course praise,2,praise for introductory data science course,7024,2.976
+T89,1,2,Macro 2,course quality and content feedback,3,7,Meso 8,data science and database course praise,69,praise for SQL course content,933,0.395
+T90,1,2,Macro 2,course quality and content feedback,3,7,Meso 8,data science and database course praise,113,praise for introductory big data course,589,0.25
+T91,1,2,Macro 2,course quality and content feedback,3,7,Meso 8,data science and database course praise,154,praise for databases and Python integration,382,0.162
+T92,1,2,Macro 2,course quality and content feedback,3,7,Meso 8,data science and database course praise,178,enthusiasm for Lean Six Sigma methodologies,319,0.135
+T93,1,2,Macro 2,course quality and content feedback,3,7,Meso 8,data science and database course praise,199,praise for database beginner courses,282,0.119
+T94,1,2,Macro 2,course quality and content feedback,3,7,Meso 8,data science and database course praise,203,praise for data visualization skills,276,0.117
+T95,1,2,Macro 2,course quality and content feedback,3,7,Meso 8,data science and database course praise,242,praise for big data course content,208,0.088
+T96,1,2,Macro 2,course quality and content feedback,4,10,Meso 9,instructor and course praise,6,positive feedback on Excel course,4390,1.86
+T97,1,2,Macro 2,course quality and content feedback,4,10,Meso 9,instructor and course praise,57,praise for Mike Fitzpatrick's MATLAB course,1056,0.447
+T98,1,2,Macro 2,course quality and content feedback,4,10,Meso 9,instructor and course praise,85,praise for intuitive linear algebra explanations,777,0.329
+T99,1,2,Macro 2,course quality and content feedback,4,10,Meso 9,instructor and course praise,110,praise for Octave and MATLAB tools,599,0.254
+T100,1,2,Macro 2,course quality and content feedback,4,10,Meso 9,instructor and course praise,163,positive feedback on data visualization course,355,0.15
+T101,1,2,Macro 2,course quality and content feedback,4,10,Meso 9,instructor and course praise,212,frustrations with GraphLab installation and support,270,0.114
+T102,1,2,Macro 2,course quality and content feedback,4,10,Meso 9,instructor and course praise,219,praise for instructor Dr. Charlie,259,0.11
+T103,1,2,Macro 2,course quality and content feedback,4,10,Meso 9,instructor and course praise,220,praise for matplotlib course experience,256,0.108
+T104,1,2,Macro 2,course quality and content feedback,5,9,Meso 10,statistics course content praise,26,positive feedback on R and GitHub integration,1882,0.797
+T105,1,2,Macro 2,course quality and content feedback,5,9,Meso 10,statistics course content praise,47,feedback on statistics course content,1216,0.515
+T106,1,2,Macro 2,course quality and content feedback,5,9,Meso 10,statistics course content praise,205,praise for Bayesian Statistics introduction,275,0.117
+T107,1,2,Macro 2,course quality and content feedback,5,9,Meso 10,statistics course content praise,246,feedback on basic statistics course,204,0.086
+T108,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,5,feedback on programming assignments challenges,4439,1.881
+T109,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,16,positive feedback for beginner courses,2809,1.19
+T110,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,17,labs,2730,1.157
+T111,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,22,praise for Dr. Chuck's courses,2094,0.887
+T112,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,42,requests for more coding practice,1313,0.556
+T113,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,56,mixed reviews on beginner suitability,1126,0.477
+T114,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,68,positive feedback on OS command learning,943,0.4
+T115,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,71,praise for course modules,923,0.391
+T116,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,95,praise for Java course effectiveness,686,0.291
+T117,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,97,positive feedback on Git and GitHub course,678,0.287
+T118,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,111,praise for the tools course,595,0.252
+T119,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,116,scala,571,0.242
+T120,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,131,positive feedback on learning platform,477,0.202
+T121,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,134,praise for instructor Nick Santos,475,0.201
+T122,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,140,positive feedback on Unity course for beginners,451,0.191
+T123,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,152,feedback on Qwiklabs experience,398,0.169
+T124,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,174,praise for instructor Dr. Chuck,322,0.136
+T125,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,221,praise for functional programming course,256,0.108
+T126,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,222,praise for programming fundamentals insights,254,0.108
+T127,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,228,praise for beginner-friendly game development course,245,0.104
+T128,2,1,Macro 3,course quality and positive experiences,1,1,Meso 11,course quality and programming practice feedback,237,positive feedback on program quality,220,0.093
+T129,2,1,Macro 3,course quality and positive experiences,2,4,Meso 12,course quality and instructor praise,32,praise for IT Support course introduction,1493,0.633
+T130,2,1,Macro 3,course quality and positive experiences,2,4,Meso 12,course quality and instructor praise,44,praise for networking course content,1287,0.545
+T131,2,1,Macro 3,course quality and positive experiences,2,4,Meso 12,course quality and instructor praise,62,praise for comprehensive computer science course,1005,0.426
+T132,2,1,Macro 3,course quality and positive experiences,2,4,Meso 12,course quality and instructor praise,90,positive feedback on technical support fundamentals,719,0.305
+T133,2,1,Macro 3,course quality and positive experiences,2,4,Meso 12,course quality and instructor praise,107,praise for blockchain course quality,615,0.261
+T134,2,1,Macro 3,course quality and positive experiences,2,4,Meso 12,course quality and instructor praise,137,praise for digital transformation insights,462,0.196
+T135,2,1,Macro 3,course quality and positive experiences,2,4,Meso 12,course quality and instructor praise,161,praise for IT security course,358,0.152
+T136,2,1,Macro 3,course quality and positive experiences,2,4,Meso 12,course quality and instructor praise,165,cybersecurity,352,0.149
+T137,2,1,Macro 3,course quality and positive experiences,2,4,Meso 12,course quality and instructor praise,226,praise for Dan Boneh's teaching style,246,0.104
+T138,2,1,Macro 3,course quality and positive experiences,3,5,Meso 13,web development and data course praise,82,praise for SEO course effectiveness,805,0.341
+T139,2,1,Macro 3,course quality and positive experiences,3,5,Meso 13,web development and data course praise,89,positive feedback for beginner web development course,744,0.315
+T140,2,1,Macro 3,course quality and positive experiences,3,5,Meso 13,web development and data course praise,94,mixed feedback on JavaScript content,693,0.294
+T141,2,1,Macro 3,course quality and positive experiences,3,5,Meso 13,web development and data course praise,112,praise for web data and API instruction,593,0.251
+T142,2,1,Macro 3,course quality and positive experiences,3,5,Meso 13,web development and data course praise,147,praise for Python web data access skills,424,0.18
+T143,2,1,Macro 3,course quality and positive experiences,3,5,Meso 13,web development and data course praise,173,praise for Google and its courses,327,0.139
+T144,2,1,Macro 3,course quality and positive experiences,3,5,Meso 13,web development and data course praise,197,mixed reviews on HTML5 course content,283,0.12
+T145,2,1,Macro 3,course quality and positive experiences,3,5,Meso 13,web development and data course praise,216,praise for CSS course effectiveness,266,0.113
+T146,2,1,Macro 3,course quality and positive experiences,4,2,Meso 14,positive experiences in cloud computing courses,31,positive feedback on GCP course experience,1517,0.643
+T147,2,1,Macro 3,course quality and positive experiences,4,2,Meso 14,positive experiences in cloud computing courses,74,feedback on AWS Machine Learning courses,909,0.385
+T148,2,1,Macro 3,course quality and positive experiences,4,2,Meso 14,positive experiences in cloud computing courses,78,positive feedback on Google Cloud course,836,0.354
+T149,2,1,Macro 3,course quality and positive experiences,4,2,Meso 14,positive experiences in cloud computing courses,182,positive student experiences in cloud computing,307,0.13
+T150,2,1,Macro 3,course quality and positive experiences,5,3,Meso 15,course content and platform feedback,126,requests for updated IBM Watson Studio content,507,0.215
+T151,2,1,Macro 3,course quality and positive experiences,5,3,Meso 15,course content and platform feedback,136,feedback on Jupyter Notebook usage issues,469,0.199
+T152,2,1,Macro 3,course quality and positive experiences,5,3,Meso 15,course content and platform feedback,138,praise for IBM Coursera courses,458,0.194
+T153,2,1,Macro 3,course quality and positive experiences,5,3,Meso 15,course content and platform feedback,218,notebook quality and functionality issues,263,0.111
+T154,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,38,praise for Dr. Keith Devlin's teaching,1370,0.581
+T155,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,76,praise for course explanations,876,0.371
+T156,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,96,positive feedback on course introduction,685,0.29
+T157,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,109,praise for quantitative modeling course,606,0.257
+T158,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,141,praise for course informativeness,450,0.191
+T159,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,150,praise for theory and practice integration,404,0.171
+T160,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,155,praise for introductory course quality,381,0.161
+T161,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,157,praise for instructor Chris Impey,367,0.156
+T162,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,167,positive feedback on introductory courses,346,0.147
+T163,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,170,praise for course structure and organization,341,0.144
+T164,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,171,praise for introductory engineering mechanics course,340,0.144
+T165,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,180,praise for Professor David Easdown,314,0.133
+T166,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,206,praise for bootstrap course,273,0.116
+T167,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,217,praise for Professor Louis Bloomfield,264,0.112
+T168,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,224,praise for course introductions,251,0.106
+T169,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,227,praise for foundation course quality,246,0.104
+T170,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,230,praise for fundamentals understanding,239,0.101
+T171,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,231,praise for Special Relativity course,236,0.1
+T172,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,238,positive feedback on beginner courses,218,0.092
+T173,3,5,Macro 4,course and instructor appreciation,1,15,Meso 16,instructor and course quality praise,248,positive feedback on simulation courses,201,0.085
+T174,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,60,praise for practical legal applications,1034,0.438
+T175,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,64,appreciation for Indigenous history education,995,0.422
+T176,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,73,praise for negotiation course,911,0.386
+T177,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,98,feedback on case study teaching methods,670,0.284
+T178,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,125,enthusiasm for feminism and social justice course,512,0.217
+T179,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,133,praise for introductory philosophy course,475,0.201
+T180,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,135,positive feedback on research methods course,472,0.2
+T181,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,144,praise for engaging history instruction,434,0.184
+T182,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,159,praise for diplomacy course content,361,0.153
+T183,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,181,discussions on political policy challenges,307,0.13
+T184,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,184,issues with course discussion forums,304,0.129
+T185,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,233,feedback on meta-analysis course content,230,0.097
+T186,3,5,Macro 4,course and instructor appreciation,2,17,Meso 17,course content and teaching praise,239,praise for ancient Egypt course,218,0.092
+T187,3,5,Macro 4,course and instructor appreciation,3,18,Meso 18,psychology course and instructor praise,25,praise for happiness science course,1979,0.839
+T188,3,5,Macro 4,course and instructor appreciation,3,18,Meso 18,psychology course and instructor praise,36,praise for Professor Bloom's psychology course,1390,0.589
+T189,3,5,Macro 4,course and instructor appreciation,3,18,Meso 18,psychology course and instructor praise,99,praise for positive psychology course,662,0.281
+T190,3,5,Macro 4,course and instructor appreciation,3,18,Meso 18,psychology course and instructor praise,143,feedback on psychological crisis interventions,436,0.185
+T191,3,5,Macro 4,course and instructor appreciation,3,18,Meso 18,psychology course and instructor praise,192,positive impact on mental health,289,0.122
+T192,3,5,Macro 4,course and instructor appreciation,3,18,Meso 18,psychology course and instructor praise,245,praise for Professor Scott Plous,204,0.086
+T193,3,5,Macro 4,course and instructor appreciation,4,20,Meso 19,science and health course praise,51,praise for Covid-19 course,1186,0.503
+T194,3,5,Macro 4,course and instructor appreciation,4,20,Meso 19,science and health course praise,53,praise for beginner-friendly clinical research course,1163,0.493
+T195,3,5,Macro 4,course and instructor appreciation,4,20,Meso 19,science and health course praise,148,positive feedback on drug discovery course,423,0.179
+T196,3,5,Macro 4,course and instructor appreciation,4,20,Meso 19,science and health course praise,156,recommendations for biology teachers in bioinformatics,378,0.16
+T197,3,5,Macro 4,course and instructor appreciation,4,20,Meso 19,science and health course praise,172,positive feedback on anatomy and physiology courses,339,0.144
+T198,3,5,Macro 4,course and instructor appreciation,4,20,Meso 19,science and health course praise,176,praise for epidemiology course content,319,0.135
+T199,3,5,Macro 4,course and instructor appreciation,4,20,Meso 19,science and health course praise,188,positive feedback on cancer biology course,296,0.125
+T200,3,5,Macro 4,course and instructor appreciation,4,20,Meso 19,science and health course praise,223,praise for reinforcement learning content,252,0.107
+T201,3,5,Macro 4,course and instructor appreciation,5,19,Meso 20,course content and instructor praise,103,enthusiastic reviews of dog cognition course,629,0.267
+T202,3,5,Macro 4,course and instructor appreciation,5,19,Meso 20,course content and instructor praise,104,enthusiastic reviews about dinosaur course,626,0.265
+T203,3,5,Macro 4,course and instructor appreciation,5,19,Meso 20,course content and instructor praise,179,praise for instructor Dr. Mortensen,317,0.134
+T204,3,5,Macro 4,course and instructor appreciation,5,19,Meso 20,course content and instructor praise,208,concerns about animal welfare practices,272,0.115
+T205,3,5,Macro 4,course and instructor appreciation,5,19,Meso 20,course content and instructor praise,235,praise for sustainable tourism insights,230,0.097
+T206,3,5,Macro 4,course and instructor appreciation,5,19,Meso 20,course content and instructor praise,236,praise for ecology and conservation course,224,0.095
+T207,3,5,Macro 4,course and instructor appreciation,6,16,Meso 21,energy and sustainability course praise,117,praise for sustainability course content,566,0.24
+T208,3,5,Macro 4,course and instructor appreciation,6,16,Meso 21,energy and sustainability course praise,145,praise for oil and gas industry course,434,0.184
+T209,3,5,Macro 4,course and instructor appreciation,6,16,Meso 21,energy and sustainability course praise,158,positive feedback on energy course aspects,366,0.155
+T210,3,5,Macro 4,course and instructor appreciation,6,16,Meso 21,energy and sustainability course praise,175,enthusiasm for renewable energy entrepreneurship,320,0.136
+T211,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,41,positive reviews on project management courses,1314,0.557
+T212,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,43,praise for the marketing course,1310,0.555
+T213,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,84,feedback on luxury fashion course content,803,0.34
+T214,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,86,praise for practical digital marketing insights,775,0.328
+T215,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,91,feedback on personal branding strategies,707,0.3
+T216,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,108,praise for business course effectiveness,610,0.258
+T217,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,120,insights on modern management practices,541,0.229
+T218,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,124,praise for supply chain logistics course,515,0.218
+T219,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,129,feedback on human resources course experience,497,0.211
+T220,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,139,praise for Agile software methodology learning,452,0.192
+T221,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,162,praise for instructor Alex Cowan,356,0.151
+T222,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,164,praise for job application preparation course,352,0.149
+T223,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,166,enthusiasm for entrepreneurship learning experience,349,0.148
+T224,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,169,praise for private equity course content,344,0.146
+T225,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,186,praise for social norms course and instructor,301,0.128
+T226,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,189,positive feedback on social media marketing course,294,0.125
+T227,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,190,positive feedback on project management course,292,0.124
+T228,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,193,positive feedback on strategy course,285,0.121
+T229,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,200,praise for Jira and agile methodologies,280,0.119
+T230,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,243,insights from industry experts,206,0.087
+T231,4,3,Macro 5,course quality and effectiveness,1,12,Meso 22,course content and effectiveness praise,247,praise for leadership course experience,204,0.086
+T232,4,3,Macro 5,course quality and effectiveness,2,11,Meso 23,business and finance course praise,21,praise for corporate finance course,2144,0.908
+T233,4,3,Macro 5,course quality and effectiveness,2,11,Meso 23,business and finance course praise,87,praise for financial accounting course,764,0.324
+T234,4,3,Macro 5,course quality and effectiveness,2,11,Meso 23,business and finance course praise,106,praise for introductory marketing analytics content,621,0.263
+T235,4,3,Macro 5,course quality and effectiveness,2,11,Meso 23,business and finance course praise,123,praise for people analytics course,521,0.221
+T236,4,3,Macro 5,course quality and effectiveness,2,11,Meso 23,business and finance course praise,132,praise for foundational economics understanding,476,0.202
+T237,4,3,Macro 5,course quality and effectiveness,2,11,Meso 23,business and finance course praise,185,praise for Professor Robert Shiller,302,0.128
+T238,4,3,Macro 5,course quality and effectiveness,2,11,Meso 23,business and finance course praise,194,feedback on business metrics understanding,285,0.121
+T239,4,3,Macro 5,course quality and effectiveness,2,11,Meso 23,business and finance course praise,196,positive feedback on forensic accounting course,284,0.12
+T240,5,4,Macro 6,course content and experience feedback,1,14,Meso 24,course content and quality feedback,35,positive feedback on clear explanations,1482,0.628
+T241,5,4,Macro 6,course content and experience feedback,1,14,Meso 24,course content and quality feedback,58,praise for course content quality,1049,0.445
+T242,5,4,Macro 6,course content and experience feedback,1,14,Meso 24,course content and quality feedback,59,mixed feedback on course information quality,1049,0.445
+T243,5,4,Macro 6,course content and experience feedback,1,14,Meso 24,course content and quality feedback,72,praise for course usefulness,911,0.386
+T244,5,4,Macro 6,course content and experience feedback,1,14,Meso 24,course content and quality feedback,146,praise for course material quality,427,0.181
+T245,5,4,Macro 6,course content and experience feedback,1,14,Meso 24,course content and quality feedback,249,theory versus practice balance concerns,201,0.085
+T246,5,4,Macro 6,course content and experience feedback,2,13,Meso 25,overall course experience feedback,67,positive feedback on learning experience,950,0.403
+T247,5,4,Macro 6,course content and experience feedback,2,13,Meso 25,overall course experience feedback,83,mixed feedback on course structure and pacing,803,0.34
+T248,5,4,Macro 6,course content and experience feedback,2,13,Meso 25,overall course experience feedback,105,mixed feedback on course difficulty,625,0.265
+T249,5,4,Macro 6,course content and experience feedback,2,13,Meso 25,overall course experience feedback,115,positive feedback on course experience,575,0.244
+T250,5,4,Macro 6,course content and experience feedback,2,13,Meso 25,overall course experience feedback,225,praise for session quality and engagement,248,0.105

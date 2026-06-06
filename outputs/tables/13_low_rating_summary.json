@@ -1,0 +1,9 @@
+{
+  "n_low_rating_docs": 25274,
+  "n_topics": 68,
+  "outlier_share": 0.3307,
+  "n_mezo": 12,
+  "n_makro": 4,
+  "seed": 42,
+  "min_topic_size": 50
+}

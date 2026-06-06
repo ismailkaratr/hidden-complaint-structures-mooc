@@ -1,0 +1,7 @@
+step,removed,kept,note
+missing_required_fields,0,1454711,
+invalid_rating,0,1454711,
+"token_count_outside[5,512]",290442,1164269,
+duplicate_review_text_per_course,749615,414654,
+"language_filter (keep en, conf>=0.65)",48957,365697,"top-10 dropped languages: {'es': 33571, 'en': 6462, 'pt': 4122, 'fr': 2124, 'ru': 1914, 'ja': 156, 'de': 121, 'ko': 104, 'it': 94, 'ar': 89}"
+"no_course_metadata (kept, flagged)",0,365697,0 rows have NaN course name

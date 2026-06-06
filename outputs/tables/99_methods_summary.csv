@@ -1,0 +1,12 @@
+Madde,Rapor edilecek deger
+Adim 1 — Veri,"365697 yorum, 597 kurs (ham: 1454711, korunan: %25.1388)"
+Adim 1 — Seed,global_seed = 42
+Adim 2 — Embedding,"sentence-transformers/all-MiniLM-L6-v2 on mps, dim=384"
+Adim 2 — Karalilik (5 seed),ARI = 0.7407299999999999 ± 0.02363556877062855; NMI = 0.8802899999999999 ± 0.006410312871546204; konu sayisi = 245.0 ± 4.743416490252569
+Adim 3 — Parametre taramasi,outputs/tables/04_param_grid.csv (min_topic_size x coherence/diversity/outlier)
+Adim 4 — Final tutarlilik,"c_v = 0.5924091165294518, c_npmi = 0.09031937463637132 (min_topic_size = 200, seed = 42)"
+Adim 5 — Kodlayici uyumu,"Cohen's kappa = ? (henuz etiketlenmedi), tam eslesme = ? (n = ?)"
+Adim 6 — Duygu siniflandirici dogrulamasi,"accuracy = 0.8592, macro F1 = 0.8573437813944143, n = 284"
+Adim 7 — Uyumsuzluk saglamlik,"normalizasyonlar = ['raw', 'rank', 'zscore', 'binary'], esikler = [0.3, 0.4, 0.5, 0.6, 0.7, 0.8]"
+Adim 8 — Topic x mismatch testi,"Kruskal-Wallis H = 39357.20748554777, p = 0.0, k = 250 konu"
+Adim 9 — Outlier ele alinisi,"outlier_share = 0.3547, rho(original, reassigned) = 0.9863301335345233"

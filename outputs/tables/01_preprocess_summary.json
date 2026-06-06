@@ -1,0 +1,47 @@
+{
+  "raw_reviews": 1454711,
+  "final_reviews": 365697,
+  "kept_pct": 25.1388,
+  "rating_distribution": {
+    "1": 5336,
+    "2": 5302,
+    "3": 14636,
+    "4": 61234,
+    "5": 279189
+  },
+  "unique_courses": 597,
+  "date_range": [
+    "2015-08-07 00:00:00",
+    "2020-10-10 00:00:00"
+  ],
+  "seed": 42,
+  "filters": {
+    "min_tokens": 5,
+    "max_tokens": 512,
+    "valid_ratings": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "versions": {
+    "pandas": "3.0.3",
+    "numpy": "1.26.4",
+    "scipy": "1.17.1",
+    "sklearn": "1.8.0",
+    "torch": "2.12.0",
+    "sentence_transformers": "5.5.1",
+    "transformers": "5.9.0",
+    "bertopic": "0.17.4",
+    "umap": "0.5.12",
+    "hdbscan": "unknown",
+    "gensim": "4.4.0",
+    "nltk": "3.9.4",
+    "statsmodels": "0.14.6",
+    "scikit_posthocs": "0.13.0",
+    "python": "3.11.15",
+    "device": "mps"
+  }
+}

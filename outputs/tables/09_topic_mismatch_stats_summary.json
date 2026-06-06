@@ -1,0 +1,11 @@
+{
+  "score_col": "mismatch_raw",
+  "include_outliers": false,
+  "n_topics_tested": 250,
+  "n_obs_total": 235994,
+  "kruskal_H": 39357.20748554777,
+  "kruskal_p": 0.0,
+  "min_topic_n": 30,
+  "n_boot": 1000,
+  "seed": 42
+}

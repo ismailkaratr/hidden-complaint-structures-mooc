@@ -1,0 +1,252 @@
+topic_id,count,keywords_baseline,llm_label
+-1,129703,-1_life_interesting course_easy follow_course interesting,
+0,11452,0_learn python_python_python programming_python course,praise for Python beginner course
+1,7203,1_machine learning_machine_course machine_learning algorithms,praise for Andrew Ng's teaching style
+2,7024,2_data science_science_data scientist_scientist,praise for introductory data science course
+3,5681,3_video_videos_course videos_videos short,feedback on video length and structure
+4,5130,4_teachers_teacher_great teacher_teacher great,praise for great teacher and course
+5,4439,5_programming_programming course_new programming_learn programming,feedback on programming assignments challenges
+6,4390,6_excel_excel course_excel skills_using excel,positive feedback on Excel course
+7,4293,7_instructors_instructor_course instructor_great instructor,praise for great instructors
+8,4259,8_ai_ai course_artificial intelligence_artificial,positive feedback for AI course beginners
+9,4247,9_professors_professor great_professor_great professor,praise for great professor and course
+10,3952,10_course coursera_coursera_coursera best_courses coursera,praise for Coursera courses
+11,3748,11_quiz_quizzes_quiz questions_answers,feedback on quiz quality and access
+12,3682,12_assignment_course assignments_final assignment_assignments,feedback on assignment quality and challenge
+13,3226,13_food_nutrition_healthy_eating,enthusiasm for healthy cooking and recipes
+14,2959,14_deep learning_deep_networks deep_deep neural,praise for deep learning course quality
+15,2824,15_ml_ml course_ml algorithms_course ml,praise for Andrew Ng's ML course
+16,2809,16_course beginners_course beginner_beginners_beginners good,positive feedback for beginner courses
+17,2730,17_labs_lab_course labs_labs great,labs
+18,2581,18_english_pronunciation_speaking_improve english,praise for English pronunciation improvement courses
+19,2496,19_lectures_course lectures_lecture_lectures good,mixed feedback on lecture clarity
+20,2401,20_korean_yonsei_kang_yonsei university,positive experiences learning Korean language
+21,2144,21_finance_financial_markets_corporate finance,praise for corporate finance course
+22,2094,22_chuck_dr chuck_drchuck_chuck great,praise for Dr. Chuck's courses
+23,2059,23_online_online course_best online_online teaching,praise for online course quality
+24,1990,24_certificate_certification_course certificate_certificate course,issues with certificate issuance and details
+25,1979,25_happiness_wellbeing_happier_science wellbeing,praise for happiness science course
+26,1882,26_rstudio_github_swirl_git,positive feedback on R and GitHub integration
+27,1838,27_exercises_exercise_exercises great_practical exercises,feedback on exercise quality and quantity
+28,1810,28_ng_andrew ng_andrew_prof ng,praise for instructor Andrew Ng
+29,1636,29_neural_neural networks_networks_neural network,enthusiasm for neural networks understanding
+30,1614,30_writing_writing skills_essay_plot,appreciation for writing skill development
+31,1517,31_gcp_services_gcp course_infrastructure,positive feedback on GCP course experience
+32,1493,32_support_support specialist_specialist_support great,praise for IT Support course introduction
+33,1491,33_mooc_moocs_best mooc_great mooc,praise for the best MOOC experience
+34,1491,34_tensorflow_keras_tensor_introduction tensorflow,request for more comprehensive tensorflow content
+35,1482,35_explanation_good examples_concepts explained_explanations,positive feedback on clear explanations
+36,1390,36_psychology_psychology course_bloom_course psychology,praise for Professor Bloom's psychology course
+37,1385,37_good thank_great thank_amazing thank_excellent thank,appreciation for course and instructors
+38,1370,38_math_mathematics_mathematical_maths,praise for Dr. Keith Devlin's teaching
+39,1349,39_specialization_course specialization_courses specialization_specialization great,varying opinions on course effectiveness
+40,1319,40_thank learned_lot learned_lot thank_things thank,praise for course learning experience
+41,1314,41_project management_project_management_project planning,positive reviews on project management courses
+42,1313,42_coding_code_codes_coding course,requests for more coding practice
+43,1310,43_marketing_marketing course_marketing concepts_knowledge marketing,praise for the marketing course
+44,1287,44_networking_computer networking_networking course_ip,praise for networking course content
+45,1280,45_peer_grading_peer review_grade,complaints about peer review effectiveness
+46,1257,46_great class_enjoyed class_class_class learned,positive feedback on course experience
+47,1216,47_statistics_probability_statistical_statistics course,feedback on statistics course content
+48,1214,48_art_artists_modern art_moma,art
+49,1213,49_enjoyed course_course learned_loved course_course learnt,positive feedback on course enjoyment
+50,1197,50_chinese_mandarin_china_liu,positive feedback on Chinese language learning
+51,1186,51_covid19_pandemic_covid_covid 19,praise for Covid-19 course内容
+52,1173,52_course loved_enjoying course_course enjoyed_enjoying,positive course enjoyment and appreciation
+53,1163,53_medical_clinical_public health_health,praise for beginner-friendly clinical research course
+54,1148,54_punctuation_grammar_grammar punctuation_tenses,praise for grammar and punctuation course
+55,1128,55_music_guitar_classical_music theory,positive feedback on classical music course
+56,1126,56_good beginners_beginner good_good beginner_beginners good,mixed reviews on beginner suitability
+57,1056,57_matlab_matlab programming_programming matlab_matlab course,praise for Mike Fitzpatrick's MATLAB course
+58,1049,58_good content_great content_excellent content_organized,praise for course content quality
+59,1049,59_informative informative_information informative_informative_good information,mixed feedback on course information quality
+60,1034,60_law_american law_american_legal,praise for practical legal applications
+61,1021,61_improve learning_techniques_learning process_better learner,praise for effective learning techniques
+62,1005,62_computers_computer_hardware_computer science,praise for comprehensive computer science course
+63,1000,63_lot great_course learned_course learnt_lot excellent,praise for course effectiveness and learning
+64,995,64_indigenous_canada_canadian_stem,appreciation for Indigenous history education
+65,964,65_algorithms_algorithm_algorithmic_algorithms course,praise for algorithms course effectiveness
+66,963,66_challenging course_course challenging_challenging_challenging rewarding,praise for rewarding yet challenging course
+67,950,67_learning experience_experience learned_great learning_experience great,positive feedback on learning experience
+68,943,68_linux_windows_operating_powershell,positive feedback on OS command learning
+69,933,69_sql_course sql_knowledge sql_queries,praise for SQL course content
+70,927,70_photography_photographers_photographs_camera,praise for photography course content
+71,923,71_module_modules_course modules_great module,praise for course modules
+72,911,72_helpful useful_helpful thank_useful useful_thank helpful,praise for course usefulness
+73,911,73_negotiation_negotiations_negotiation skills_negotiating,praise for negotiation course
+74,909,74_aws_amazon_services_sagemaker,feedback on AWS Machine Learning courses
+75,908,75_andrew_andrew great_andrew sir_thank andrew,praise for instructor Andrew
+76,876,76_course explained_understand great_course easy_explained excellent,praise for course explanations
+77,853,77_design thinking_design_thinking_introduction design,positive feedback on design thinking course
+78,836,78_google cloud_cloud_cloud platform_google,positive feedback on Google Cloud course
+79,835,79_nlp_sequence models_sequence_rnn,praise for NLP and sequence models
+80,829,80_lecturer_lecturers_course lecturer_great lecturer,praise for lecturers and teaching quality
+81,819,81_graphic_graphic design_design_graphic designer,feedback on graphic design fundamentals
+82,805,82_seo_search engine_search_search engines,praise for SEO course effectiveness
+83,803,83_week_week week_weeks_content week,mixed feedback on course structure and pacing
+84,803,84_fashion_luxury_gamification_fashion luxury,feedback on luxury fashion course content
+85,777,85_linear algebra_algebra_linear_vectors,praise for intuitive linear algebra explanations
+86,775,86_digital marketing_digital_marketing_digital world,praise for practical digital marketing insights
+87,764,87_accounting_financial accounting_accounting course_bushee,praise for financial accounting course
+88,759,88_science python_python data_analysis python_data analysis,mixed feedback on course content focus
+89,744,89_web development_web_development_learn web,positive feedback for beginner web development course
+90,719,90_technical support_support fundamentals_tech_technology,positive feedback on technical support fundamentals
+91,707,91_branding_personal branding_brand_brand management,feedback on personal branding strategies
+93,705,93_email_emails_professional emails_write professional,praise for professional email writing course
+92,705,92_pandas_python pandas_pandas numpy_numpy,praise for pandas course effectiveness
+94,693,94_javascript_html css_css_html,mixed feedback on JavaScript content
+95,686,95_java_java programming_oop_object oriented,praise for Java course effectiveness
+96,685,96_introduction subject_introduction good_introduction easy_good introduction,positive feedback on course introduction
+97,678,97_git_github_git github_version control,positive feedback on Git and GitHub course
+98,670,98_case_case study_case studies_studies,feedback on case study teaching methods
+99,662,99_positive psychology_positive_psychology_seligman,praise for positive psychology course
+100,655,100_brain_brain works_brains_understand brain,praise for brain understanding techniques
+101,644,101_course thank_thank thank_thank really_course thanks,gratitude for course experience
+102,640,102_data structures_structures_python data_data structure,reviews on data structures in Python
+103,629,103_dogs_dog_cats_cognition,enthusiastic reviews of dog cognition course
+104,626,104_dinosaurs_journalism_birds_alberta,enthusiastic reviews about dinosaur course
+105,625,105_difficult worth_challenging_hard worth_challenging worth,mixed feedback on course difficulty
+106,621,106_analytics_customer_marketing_analytics course,praise for introductory marketing analytics content
+107,615,107_blockchain_ethereum_gut_technology,praise for blockchain course quality
+108,610,108_business_course business_business world_business school,praise for business course effectiveness
+109,606,109_quantitative_modeling_quantitative modeling_modelling,praise for quantitative modeling course
+110,599,110_octave_matlaboctave_octavematlab_matlab,praise for Octave and MATLAB tools
+111,595,111_tools_tools good_overview tools_introduction tools,praise for the tools course
+112,593,112_json_xml_web data_api,praise for web data and API instruction
+113,589,113_big data_big_introduction big_data good,praise for introductory big data course
+114,581,114_oakley_sejnowski_barbara oakley_dr oakley,praise for Dr. Barbara Oakley and Dr. Sejnowski
+115,575,115_experience thank_great experience_experience amazing_experience great,positive feedback on course experience
+116,571,116_scala_functional_functional programming_introduction functional,scala
+117,566,117_sustainability_sustainable_cities_sustainable development,praise for sustainability course content
+118,552,118_slides_powerpoint_slide_slides available,concerns about slide quality and interactivity
+119,546,119_stars_star_rating_reason,course rating opinions
+120,541,120_manager_management_managers_managing people,insights on modern management practices
+121,535,121_helpful thank_thank useful_useful course_helpful course,praise for helpful course
+122,534,122_neuroscience_neurobiology_mason_white,praise for Dr. Peggy Mason's teaching
+123,521,123_people analytics_analytics_business analytics_analytics course,praise for people analytics course
+124,515,124_supply chain_supply_chain_logistics,praise for supply chain logistics course
+125,512,125_feminism_women_social justice_justice,enthusiasm for feminism and social justice course
+126,507,126_watson_watson studio_ibm watson_studio,requests for updated IBM Watson Studio content
+127,504,127_ux_user experience_ui_experience design,feedback on UX design courses
+128,502,128_tuning_hyperparameters_hyperparameter_hyperparameter tuning,praise for hyperparameter tuning content
+129,497,129_hr_budd_human resources_human resource,feedback on human resources course experience
+130,480,130_severance_charles severance_charles_dr severance,praise for Dr. Charles Severance
+131,477,131_platform learn_platform_good platform_learning platform,positive feedback on learning platform
+132,476,132_macroeconomics_economics_economic_navarro,praise for foundational economics understanding
+133,475,133_philosophy_philosophical_introduction philosophy_philosophy course,praise for introductory philosophy course
+134,475,134_gis_arcgis_nick_nick santos,praise for instructor Nick Santos
+135,472,135_research methods_research_understanding research_research methodology,positive feedback on research methods course
+136,469,136_jupyter_jupyter notebooks_jupyter notebook_notebook,feedback on Jupyter Notebook usage issues
+137,462,137_digital transformation_transformation_digital_bcg,praise for digital transformation insights
+138,458,138_ibm_ibm coursera_coursera ibm_thanks ibm,praise for IBM Coursera courses
+139,452,139_agile_scrum_personas_alex,praise for Agile software methodology learning
+140,451,140_unity_game_game development_games,positive feedback on Unity course for beginners
+141,450,141_informative course_information informative_good informative_course lots,praise for course informativeness
+142,447,142_trainer_trainers_training_excellent training,praise for training quality and trainers
+143,436,143_psychological aid_psychological_aid_disaster,feedback on psychological crisis interventions
+144,434,144_history_zelikow_world history_big history,praise for engaging history instruction
+145,434,145_oil_gas_oil gas_industry,praise for oil and gas industry course
+146,427,146_excellent material_great material_good material_materials,praise for course material quality
+147,424,147_web data_access web_python access_web,praise for Python web data access skills
+148,423,148_drug_addiction_discovery_drugs,positive feedback on drug discovery course
+149,407,149_recommend great_recommend excellent_course recommend_course highly,positive recommendations for the course
+150,404,150_theory_theory practice_balance theory_theory practical,praise for theory and practice integration
+151,401,151_enjoyed great_course enjoyed_enjoyed excellent_course loved,positive feedback on course enjoyment
+152,398,152_qwiklabs_qwiklab_qwik_qwik labs,feedback on Qwiklabs experience
+153,383,153_communication_communication skills_improve communication_communication course,praise for communication skills development
+154,382,154_databases_database_sql_sql python,praise for databases and Python integration
+155,381,155_introductory course_introductory_good introductory_great introductory,praise for introductory course quality
+156,378,156_bioinformatics_biology_genomics_genetics,recommendations for biology teachers in bioinformatics
+157,367,157_astronomy_impey_universe_chris impey,praise for instructor Chris Impey
+158,366,158_wind_energy_dtu_energy course,positive feedback on energy course aspects
+159,361,159_diplomacy_international relations_relations_international,praise for diplomacy course content
+160,360,160_nn_nns_nn dl_deep nn,nn
+161,358,161_security_security course_privacy_secure,praise for IT security course
+162,356,162_product_product management_product manager_product managers,praise for instructor Alex Cowan
+163,355,163_visualization_data visualization_plotting_visualisation,positive feedback on data visualization course
+164,352,164_resume_cover letter_letter_resume cover,praise for job application preparation course
+165,352,165_cybersecurity_cyber_cyber security_security,cybersecurity
+166,349,166_entrepreneurship_entrepreneur_entrepreneurs_entrepreneurship course,enthusiasm for entrepreneurship learning experience
+167,346,167_intro course_intro_great intro_good intro,positive feedback on introductory courses
+168,344,168_scientific_writing_sainani_sciences,praise for Dr. Kristin Sainani's course
+169,344,169_pe_private equity_equity_private,praise for private equity course content
+170,341,170_structured course_organized course_organised course_organised,praise for course structure and organization
+171,340,171_engineering_mechanics_engineering mechanics_whiteman,praise for introductory engineering mechanics course
+172,339,172_anatomy_physiology_body_human physiology,positive feedback on anatomy and physiology courses
+173,327,173_google_google team_learning google_google courses,praise for Google and its courses
+174,322,174_chuck_dr chuck_drchuck_dr,praise for instructor Dr. Chuck
+175,320,175_energy_renewable_renewable energy_green,enthusiasm for renewable energy entrepreneurship
+176,319,176_epidemiology_public health_public_health,praise for epidemiology course content
+177,319,177_laurie_laurie santos_santos_professor laurie,praise for professor Laurie Santos
+178,319,178_sigma_lean_belt_yellow,enthusiasm for Lean Six Sigma methodologies
+179,317,179_horses_horse_bugs_creatures,praise for instructor Dr. Mortensen
+180,314,180_calculus_easdown_david easdown_professor easdown,praise for Professor David Easdown
+181,307,181_shapiro_political_politics_public policy,discussions on political policy challenges
+182,307,182_cloud_cloud computing_computing_cloud technology,positive student experiences in cloud computing
+183,306,183_procrastination_avoid procrastination_tackle procrastination_deal procrastination,strategies for overcoming procrastination
+184,304,184_forum_discussion_forums_discussion forum,issues with course discussion forums
+185,302,185_shiller_professor shiller_robert shiller_markets,praise for Professor Robert Shiller
+186,301,186_social_norms_social norms_social change,praise for social norms course and instructor
+187,297,187_parenting_parents_parent_child,praise for Dr. Kazdin's parenting course
+188,296,188_cancer_biology_treatment_treatments,positive feedback on cancer biology course
+189,294,189_social media_media_social_introduction social,positive feedback on social media marketing course
+190,292,190_pmbok_pm_pmp_pms,positive feedback on project management course
+191,291,191_taken best_best course_course taken_ive best,praise for course quality
+192,289,192_mental health_mental_health_psychiatry,positive impact on mental health
+193,285,193_strategy_strategic_strategic management_business strategy,positive feedback on strategy course
+194,285,194_metrics_business metrics_business_introduction business,feedback on business metrics understanding
+195,284,195_subtitles_russian_arabic_subtitle,requests for Russian subtitles availability
+196,284,196_fraud_forensic_examination_accounting,positive feedback on forensic accounting course
+197,283,197_html5_html_accessibility_tags,mixed reviews on HTML5 course content
+198,282,198_course thank_course thanks_thanks wonderful_thank wonderful,praise for course experience
+199,282,199_database_databases_database management_dbms,praise for database beginner courses
+200,280,200_jira_agile_kanban_scrum,praise for Jira and agile methodologies
+201,279,201_bloom_professor bloom_paul bloom_paul,praise for Professor Paul Bloom
+202,279,202_tutor_tutors_course tutor_best tutor,praise for course tutor
+203,276,203_tableau_visualization_visualizations_viz,praise for data visualization skills
+204,275,204_typography_typographic_typeface_fonts,praise for typography course content
+205,275,205_bayesian_statistics_lee_inference,praise for Bayesian Statistics introduction
+206,273,206_bootstrap_gulp_npm_grunt,praise for bootstrap course
+207,273,207_cnn_convolutional_cnns_computer vision,praise for instructor Andrew Ng
+208,272,208_welfare_animal_animals_animal behaviour,concerns about animal welfare practices
+209,272,209_presenters_presenter_great presenter_presenter great,praise for course presenters
+210,271,210_santos_professor santos_dr santos_santos engaging,praise for Professor Santos
+211,271,211_best courses_courses ive_taken best_courses taken,praise for course quality
+212,270,212_graphlab_turicreate_sframe_open source,frustrations with GraphLab installation and support
+213,268,213_exercise_fitness_science exercise_body,positive feedback on exercise science course
+214,268,214_thank learned_lot course_thank learnt_course thank,positive feedback on course learning experience
+215,266,215_course thank_course thanks_thank good_thank great,positive feedback on course experience
+216,266,216_css3_css_css course_colleen,praise for CSS course effectiveness
+217,264,217_physics_bloomfield_physics course_lou,praise for Professor Louis Bloomfield
+218,263,218_notebooks_notebook_colab_course notebooks,notebook quality and functionality issues
+219,259,219_vba_macros_macro_nuttelman,praise for instructor Dr. Charlie
+220,256,220_matplotlib_visualization_plotting_visualization python,praise for matplotlib course experience
+221,256,221_functional programming_functional_introduction functional_haskell,praise for functional programming course
+222,254,222_pohl_fundamentals language_compile_programming language,praise for programming fundamentals insights
+223,252,223_rl_biotechnology_reinforcement learning_reinforcement,praise for reinforcement learning content
+224,251,224_introduction course_good introduction_course introduction_introduction,praise for course introductions
+225,248,225_session_sessions_great session_good session,praise for session quality and engagement
+226,246,226_cryptography_crypto_boneh_encryption,praise for Dan Boneh's teaching style
+227,246,227_foundation_foundation course_great foundation_good foundation,praise for foundation course quality
+228,245,228_game_game development_games_development,praise for beginner-friendly game development course
+229,242,229_scikitlearn_scikit learn_python machine_scikit,praise for machine learning content
+230,239,230_fundamentals_fundamentals great_fundamentals good_fundamentals course,praise for fundamentals understanding
+231,236,231_relativity_einstein_lagerstrom_special,praise for Special Relativity course
+232,235,232_creativity_creative thinking_creative_thinking techniques,appreciation for creativity tools and techniques
+234,230,234_weeks_days_week course_hours,course duration and time commitment feedback
+235,230,235_tourism_plants_plant_chamovitz,praise for sustainable tourism insights
+233,230,233_metaanalysis_systematic_migration_meta,feedback on meta-analysis course content
+236,224,236_ecology_conservation_ecosystem_ecosystems,praise for ecology and conservation course
+237,220,237_program_great program_excellent program_good program,positive feedback on program quality
+238,218,238_start good_course start_course starters_course begin,positive feedback on beginner courses
+239,218,239_egypt_ancient_egyptian_silverman,praise for ancient Egypt course
+240,212,240_shiller_professor shiller_robert shiller_robert,praise for Professor Robert Shiller
+241,210,241_charles_dr charles_charles great_professor charles,praise for Professor Charles
+242,208,242_hadoop_mapreduce_big data_cloudera,praise for big data course content
+243,206,243_industry_overview industry_insights industry_industries,insights from industry experts
+244,205,244_yaakov_hopkins_yaakov chaikin_chaikin,praise for instructor Yaakov Chaikin
+245,204,245_social psychology_plous_scott plous_scott,praise for Professor Scott Plous
+246,204,246_statistics_statistical_probability_basic statistics,feedback on basic statistics course
+247,204,247_leadership_leader_leaders_leadership skills,praise for leadership course experience
+248,201,248_simulation_simulations_simulator_simulators,positive feedback on simulation courses
+249,201,249_theory_theory practice_theory theory_balance theory,theory versus practice balance concerns

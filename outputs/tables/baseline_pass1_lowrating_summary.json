@@ -1,0 +1,16 @@
+{
+  "design_note": "Reviewer comment 2b asked whether filtering the first-pass micros to low-rated documents would yield the same complaint typology as the second-pass refit. We answer descriptively.",
+  "first_pass_micros_examined": 250,
+  "low_rated_docs_in_first_pass_non_outliers": 15553,
+  "pass2_clustered_low_rated_docs": 16916,
+  "top_N_compared_to_pass2": 68,
+  "top68_first_pass_micros": {
+    "complaint_like_labels_count": 6,
+    "total_docs_in_top68_first_pass_micros": 131899,
+    "low_rated_docs_in_top68_first_pass_micros": 12401,
+    "share_of_top68_docs_that_are_low_rated": 9.4,
+    "share_of_clustered_low_rated_covered_by_top68": 79.73
+  },
+  "interpretation": "If the filter-and-rank baseline reproduced the second-pass result, the top 68 Pass-1 micros (by low-rated count) would predominantly carry complaint-flavoured labels and would cover most of the clustered low-rated docs. Counter-evidence: only 6 of the top 68 first-pass micros have complaint-flavoured labels; the rest are generic course-praise or course-name labels (e.g. 'Python', 'data science') that happen to contain a low-rated minority. The Pass-2 refit therefore yields qualitatively different topics, not just a reshuffled subset.",
+  "note_outliers_pass1": "9,721 of the 25,274 low-rated reviews fall into the first-pass outlier set and so can never be reached by a Pass-1-filter baseline at any N."
+}

@@ -1,0 +1,12 @@
+Level,Display,Label,N,Pct,Micros
+Macro,Macro 1,Course-specific content and assignment problems,8824,34.91,
+Meso,Meso 1,Assignment design and lecture-assessment alignment,3114,12.32,"CT1 (2.70%), CT2 (2.65%), CT3 (1.99%), CT4 (1.74%), CT5 (1.23%), CT6 (0.83%), CT7 (0.57%), CT8 (0.30%), CT9 (0.30%)"
+Meso,Meso 2,"Lab, tooling and platform-specific frictions",2572,10.18,"CT10 (2.19%), CT11 (2.05%), CT12 (1.10%), CT13 (0.62%), CT14 (0.59%), CT15 (0.55%), CT16 (0.47%), CT17 (0.41%), CT18 (0.39%), CT19 (0.33%), CT20 (0.29%), CT21 (0.28%), CT22 (0.26%), CT23 (0.24%), CT24 (0.22%), CT25 (0.21%)"
+Meso,Meso 3,Outdated or thin course content (course-specific),2315,9.16,"CT26 (1.04%), CT27 (0.99%), CT28 (0.97%), CT29 (0.95%), CT30 (0.95%), CT31 (0.92%), CT32 (0.89%), CT33 (0.64%), CT34 (0.58%), CT35 (0.57%), CT36 (0.34%), CT37 (0.33%)"
+Meso,Meso 4,"Audio, slide and delivery-quality issues",823,3.26,"CT38 (0.72%), CT39 (0.72%), CT40 (0.64%), CT41 (0.64%), CT42 (0.30%), CT43 (0.22%)"
+Macro,Macro 2,Generic pedagogical-quality complaints,7563,29.92,
+Meso,Meso 5,"Lack of depth, engagement and clarity",5628,22.27,"CT44 (13.05%), CT45 (1.29%), CT46 (1.01%), CT47 (0.99%), CT48 (0.87%), CT49 (0.78%), CT50 (0.57%), CT51 (0.40%), CT52 (0.38%), CT53 (0.36%), CT54 (0.33%), CT55 (0.31%), CT56 (0.29%), CT57 (0.26%), CT58 (0.25%), CT59 (0.25%), CT60 (0.23%), CT61 (0.22%), CT62 (0.22%), CT63 (0.21%)"
+Meso,Meso 6,Outdated content and assessment errors,1935,7.66,"CT64 (5.96%), CT65 (1.70%)"
+Macro,Macro 3,Administrative and enrolment frictions,529,2.09,
+Meso,Meso 7,"Certificate, payment and enrolment problems",529,2.09,"CT66 (1.50%), CT67 (0.38%), CT68 (0.22%)"
+Macro,—,Unassigned (HDBSCAN outlier; excluded from clustered hierarchy),8358,33.07,

@@ -1,0 +1,69 @@
+topic_id,macro_id_v2,meso_id_v2,count,llm_label
+2,1,1,683,Lack of clarity and support for assignments
+3,1,1,670,Discrepancy Between Lectures and Assignments
+7,1,1,440,Lack of depth and engagement in content
+11,1,1,310,Inadequate alignment of assignments and lectures
+23,1,1,211,Insufficient mathematical depth and support
+29,1,1,162,Outdated content and poor JavaScript instruction
+50,1,1,77,Overwhelming course content and unclear instructions
+52,1,1,73,Inadequate Java learning resources and tools
+57,1,1,64,Course content and organization issues
+59,1,1,61,Lack of practical application in networking training
+62,1,1,56,Lack of support in discussion forums
+65,1,1,55,Lack of technical depth and practical examples
+6,1,2,503,Course organization and unclear assignments
+16,1,2,249,Outdated content and lack of relevant emphasis
+17,1,2,245,Insufficient explanations and course complexity issues
+18,1,2,241,Lack of depth and clarity in content
+19,1,2,240,Course content misalignment with expectations and difficulty
+20,1,2,233,Lack of depth in nutrition content
+30,1,2,156,Course content and accessibility issues
+31,1,2,150,Lack of clarity in math instruction
+32,1,2,147,Course difficulty and content coverage issues
+34,1,2,144,Lack of depth and specificity in content
+42,1,2,95,Misleading course content and format issues
+48,1,2,78,Lack of practical application and clarity
+58,1,2,63,Lack of practical content and disorganization
+60,1,2,58,Course content quality and assignment issues
+64,1,2,55,Course content focus and structure issues
+4,1,3,553,Video clarity and course materials不足
+36,1,3,138,Poor course structure and inadequate support
+40,1,3,99,Programming assignments and course clarity issues
+46,1,3,83,Limited use of open-source tools in course
+67,1,3,52,Insufficient depth and explanation in course content
+5,1,4,517,Lab specifications and clarity issues
+12,1,4,277,Course content lacks depth and practical value
+13,1,4,262,Outdated course materials and service issues
+21,1,4,224,Outdated tutorial videos and interface issues
+37,1,4,119,Lack of practical machine learning training
+38,1,4,103,Lab functionality and performance issues
+54,1,4,70,Inadequate instruction for beginners in commands
+25,2,5,183,Poor audio quality and delivery issues
+27,2,5,163,Excessive video length and poor engagement
+49,2,5,77,Outdated course content needs urgent update
+61,2,5,56,Lack of logical structure and engaging materials
+9,3,6,378,Certificate issues and poor support experience
+41,3,6,96,Unenrollment and course cancellation requests
+63,3,6,55,Payment issues and financial aid problems
+35,3,7,144,Lack of clarity and difficulty in material
+66,3,7,53,Inadequate course content and structure
+0,3,8,3299,Lack of depth and engagement in course material
+1,3,8,1506,Quiz errors and outdated content complaints
+8,3,8,429,Inadequate peer review and grading process
+10,3,8,327,Ineffective and monotonous teaching style
+14,3,8,255,Insufficient video content and reliance on book
+15,3,8,251,Language proficiency and accent difficulties
+22,3,8,221,Poor exercise design and lack of support
+24,3,8,196,Course cohesion and clarity issues
+26,3,8,181,Presentation quality and slide accessibility issues
+28,3,8,163,Inadequate lecture quality and structure
+33,3,8,145,Lack of clarity in video assignments and instructions
+39,3,8,101,Course quality and content issues
+43,3,8,90,Course difficulty and unclear instructions
+44,3,8,85,Course content is outdated and lacks updates.
+45,3,8,84,Insufficient structure and engagement in capstone
+47,3,8,83,Content Bias and Lack of Diverse Perspectives
+51,3,8,75,Mismatch between lectures and assignments
+53,3,8,73,Course workload and time expectations
+55,3,8,66,Autograder issues hinder coding learning experience
+56,3,8,65,Course structure and assignment challenges

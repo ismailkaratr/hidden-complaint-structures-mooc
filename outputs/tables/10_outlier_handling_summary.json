@@ -1,0 +1,14 @@
+{
+  "n_docs": 365697,
+  "n_outliers": 129703,
+  "outlier_share": 0.3547,
+  "spearman_original_vs_dropped": {
+    "rho": 1.0,
+    "p": 0.0
+  },
+  "spearman_original_vs_reassigned": {
+    "rho": 0.9863301335345233,
+    "p": 3.1867856751244874e-196
+  },
+  "policy": "Outliers (-1) are reported as a separate group in step 09 by default. Use --include-outliers to test inclusion; this script provides the reassignment alternative for sensitivity reporting."
+}

@@ -1,0 +1,4 @@
+makro_id,baseline_n,after_n,Macro_label,delta_n,baseline_pct_of_clustered,after_pct_of_clustered
+1,8824,12531,Course-specific content and assignment problems,3707,52.16,49.58
+2,7563,11979,Generic pedagogical-quality complaints,4416,44.71,47.4
+3,529,764,Administrative and enrolment frictions,235,3.13,3.02

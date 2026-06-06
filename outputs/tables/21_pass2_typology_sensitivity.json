@@ -1,0 +1,44 @@
+{
+  "design_note": "Sensitivity of the Pass-2 macro and meso composition to the HDBSCAN outlier policy. The baseline figures (which the manuscript uses) keep the 8,358 Pass-2 outliers as their own group; here we reassign every outlier to its nearest non-outlier topic via the embedding centroid and recompute the macro and meso counts.",
+  "n_low_rating_total": 25274,
+  "n_outliers_pass2": 8358,
+  "n_still_outlier_after_reassign": 0,
+  "macro_level": {
+    "spearman_rho_size_ranking": 1.0,
+    "spearman_p": 0.0,
+    "macro_table_csv": "outputs/tables/21_pass2_typology_after_reassign.csv"
+  },
+  "meso_level": {
+    "spearman_rho_size_ranking": 1.0,
+    "spearman_p": 0.0
+  },
+  "interpretation_macro": [
+    {
+      "makro_id": 1,
+      "baseline_n": 8824,
+      "after_n": 12531,
+      "Macro_label": "Course-specific content and assignment problems",
+      "delta_n": 3707,
+      "baseline_pct_of_clustered": 52.16,
+      "after_pct_of_clustered": 49.58
+    },
+    {
+      "makro_id": 2,
+      "baseline_n": 7563,
+      "after_n": 11979,
+      "Macro_label": "Generic pedagogical-quality complaints",
+      "delta_n": 4416,
+      "baseline_pct_of_clustered": 44.71,
+      "after_pct_of_clustered": 47.4
+    },
+    {
+      "makro_id": 3,
+      "baseline_n": 529,
+      "after_n": 764,
+      "Macro_label": "Administrative and enrolment frictions",
+      "delta_n": 235,
+      "baseline_pct_of_clustered": 3.13,
+      "after_pct_of_clustered": 3.02
+    }
+  ]
+}

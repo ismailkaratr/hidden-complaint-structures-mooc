@@ -1,0 +1,11 @@
+level,cluster_id,label,n_mikro_topics,n_docs
+makro,1,Course-specific content and assignment problems,43,8824
+makro,2,Generic pedagogical-quality complaints,22,7563
+makro,3,Administrative and enrolment frictions,3,529
+mezo,1,Assignment design and lecture-assessment alignment,9,3114
+mezo,2,Outdated or thin course content (course-specific),12,2315
+mezo,3,"Lab, tooling and platform-specific frictions",16,2572
+mezo,4,"Audio, slide and delivery-quality issues",6,823
+mezo,5,"Lack of depth, engagement and clarity",20,5628
+mezo,6,Outdated content and assessment errors,2,1935
+mezo,7,"Certificate, payment and enrolment problems",3,529

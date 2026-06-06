@@ -1,0 +1,44 @@
+{
+  "design_note": "60 three-star reviews from the validation template were labelled independently by Coder A (first author) and Coder B (Claude Opus 4, blind to Coder A's choices). The reliability figure reported in the manuscript is the strict three-class Cohen's kappa, which counts abstention as a label decision. We deliberately do not report the two-class subset kappa: restricting to rows where both coders committed to a polarity would exclude precisely the ambiguous cases where coder judgement matters most, and would therefore overstate agreement.",
+  "n_three_star": 60,
+  "labels": [
+    "positive",
+    "negative",
+    "blank"
+  ],
+  "strict_three_class": {
+    "n": 60,
+    "agreement_n": 50,
+    "agreement_pct": 83.33,
+    "cohen_kappa": 0.725
+  },
+  "confusion_matrix_strict": {
+    "rows_coder_A": [
+      "positive",
+      "negative",
+      "blank"
+    ],
+    "cols_coder_B": [
+      "positive",
+      "negative",
+      "blank"
+    ],
+    "matrix": [
+      [
+        12,
+        0,
+        0
+      ],
+      [
+        0,
+        28,
+        4
+      ],
+      [
+        2,
+        4,
+        10
+      ]
+    ]
+  }
+}

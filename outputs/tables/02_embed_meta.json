@@ -1,0 +1,9 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "device": "mps",
+  "n_docs": 365697,
+  "embedding_dim": 384,
+  "batch_size": 256,
+  "duration_seconds": 618.3,
+  "seed": 42
+}

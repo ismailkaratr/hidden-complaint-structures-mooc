@@ -1,0 +1,26 @@
+{
+  "mikro": {
+    "n_clusters": 250,
+    "n_docs": 235994,
+    "median_mismatch_range": [
+      0.00012362003326416016,
+      0.4943800331093371
+    ]
+  },
+  "mezo": {
+    "n_clusters": 25,
+    "n_docs": 235994,
+    "median_mismatch_range": [
+      0.0001544952392578125,
+      0.24938685493543744
+    ]
+  },
+  "makro": {
+    "n_clusters": 6,
+    "n_docs": 235994,
+    "median_mismatch_range": [
+      0.00025963783264160156,
+      0.0006503462791442871
+    ]
+  }
+}
